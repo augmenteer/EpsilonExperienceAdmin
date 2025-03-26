@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/EpsilonExperienceAdmin/providers/Microsoft.ServiceLinker/linkers/StorageConnectionString_530DB9E95A, /subscriptions/86eee077-a829-4aa7-b04b-8ef97ada455d/resourcegroups/EpsilonForVW/providers/Microsoft.Web/sites/EpsilonExperienceAdmin/providers/Microsoft.ServiceLinker/linkers/StorageConnectionString_9B7183FA05",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/epsilonazurecloudproject",
+      "type": "storage.azure",
+      "connectionId": "StorageConnectionString",
+      "dynamicId": null
+    }
+  }
+}
